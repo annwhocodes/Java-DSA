@@ -6,10 +6,8 @@ public class count1ton {
         int n = sc.nextInt();
         int count = 1;
         while(count<=n){
-            System.out.println(count);
+            System.out.print(count+" ");
             count++;
-        
         }
-
     }
 }
