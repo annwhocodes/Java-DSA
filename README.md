@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-invalid-tweets](https://github.com/annwhocodes/Java-DSA/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/annwhocodes/Java-DSA/tree/master/1908-recyclable-and-low-fat-products) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/annwhocodes/Java-DSA/tree/master/2127-employees-whose-manager-left-the-company) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/annwhocodes/Java-DSA/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
