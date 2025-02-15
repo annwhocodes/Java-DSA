@@ -15,4 +15,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/annwhocodes/Java-DSA/tree/master/0007-reverse-integer) |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/annwhocodes/Java-DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Backtracking
+|  |
+| ------- |
+| [2802-find-the-punishment-number-of-an-integer](https://github.com/annwhocodes/Java-DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
