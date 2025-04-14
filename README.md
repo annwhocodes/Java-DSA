@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/annwhocodes/Java-DSA/tree/master/0007-reverse-integer) |
+| [0268-missing-number](https://github.com/annwhocodes/Java-DSA/tree/master/0268-missing-number) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/annwhocodes/Java-DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Backtracking
 |  |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/annwhocodes/Java-DSA/tree/master/0027-remove-element) |
+| [0268-missing-number](https://github.com/annwhocodes/Java-DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/annwhocodes/Java-DSA/tree/master/0283-move-zeroes) |
 | [1656-count-good-triplets](https://github.com/annwhocodes/Java-DSA/tree/master/1656-count-good-triplets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/annwhocodes/Java-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -44,4 +46,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/annwhocodes/Java-DSA/tree/master/1656-count-good-triplets) |
+## Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/annwhocodes/Java-DSA/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/annwhocodes/Java-DSA/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/annwhocodes/Java-DSA/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/annwhocodes/Java-DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
