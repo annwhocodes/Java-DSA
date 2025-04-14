@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/annwhocodes/Java-DSA/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/annwhocodes/Java-DSA/tree/master/0283-move-zeroes) |
 | [1656-count-good-triplets](https://github.com/annwhocodes/Java-DSA/tree/master/1656-count-good-triplets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/annwhocodes/Java-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/annwhocodes/Java-DSA/tree/master/2551-apply-operations-to-an-array) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/annwhocodes/Java-DSA/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/annwhocodes/Java-DSA/tree/master/0283-move-zeroes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/annwhocodes/Java-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/annwhocodes/Java-DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
