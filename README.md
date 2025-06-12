@@ -15,6 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/annwhocodes/Java-DSA/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/annwhocodes/Java-DSA/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/annwhocodes/Java-DSA/tree/master/0268-missing-number) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/annwhocodes/Java-DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Backtracking
 |  |
@@ -23,11 +25,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/annwhocodes/Java-DSA/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/annwhocodes/Java-DSA/tree/master/0066-plus-one) |
+| [0169-majority-element](https://github.com/annwhocodes/Java-DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/annwhocodes/Java-DSA/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/annwhocodes/Java-DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/annwhocodes/Java-DSA/tree/master/0287-find-the-duplicate-number) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/annwhocodes/Java-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1656-count-good-triplets](https://github.com/annwhocodes/Java-DSA/tree/master/1656-count-good-triplets) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/annwhocodes/Java-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/annwhocodes/Java-DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/annwhocodes/Java-DSA/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/annwhocodes/Java-DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/annwhocodes/Java-DSA/tree/master/0287-find-the-duplicate-number) |
+| [1894-merge-strings-alternately](https://github.com/annwhocodes/Java-DSA/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/annwhocodes/Java-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/annwhocodes/Java-DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Simulation
@@ -35,4 +49,40 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/annwhocodes/Java-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/annwhocodes/Java-DSA/tree/master/2551-apply-operations-to-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/annwhocodes/Java-DSA/tree/master/1656-count-good-triplets) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/annwhocodes/Java-DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/annwhocodes/Java-DSA/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/annwhocodes/Java-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/annwhocodes/Java-DSA/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/annwhocodes/Java-DSA/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/annwhocodes/Java-DSA/tree/master/0287-find-the-duplicate-number) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/annwhocodes/Java-DSA/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/annwhocodes/Java-DSA/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/annwhocodes/Java-DSA/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/annwhocodes/Java-DSA/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/annwhocodes/Java-DSA/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
