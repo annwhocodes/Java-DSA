@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/annwhocodes/Java-DSA/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/annwhocodes/Java-DSA/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/annwhocodes/Java-DSA/tree/master/0268-missing-number) |
+| [2238-a-number-after-a-double-reversal](https://github.com/annwhocodes/Java-DSA/tree/master/2238-a-number-after-a-double-reversal) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/annwhocodes/Java-DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Backtracking
 |  |
