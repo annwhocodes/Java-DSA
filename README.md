@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/annwhocodes/Java-DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/annwhocodes/Java-DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/annwhocodes/Java-DSA/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/annwhocodes/Java-DSA/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/annwhocodes/Java-DSA/tree/master/0268-missing-number) |
 | [2238-a-number-after-a-double-reversal](https://github.com/annwhocodes/Java-DSA/tree/master/2238-a-number-after-a-double-reversal) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/annwhocodes/Java-DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/annwhocodes/Java-DSA/tree/master/0067-add-binary) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/annwhocodes/Java-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/annwhocodes/Java-DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Enumeration
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/annwhocodes/Java-DSA/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/annwhocodes/Java-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/annwhocodes/Java-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
@@ -86,5 +89,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/annwhocodes/Java-DSA/tree/master/0067-add-binary) |
 | [1894-merge-strings-alternately](https://github.com/annwhocodes/Java-DSA/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
