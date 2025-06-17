@@ -1,16 +1,22 @@
 class Solution {
     public boolean checkPerfectNumber(int num) {
-        int sum = 0;
-        for(int i = 1;i<num;i++){
-            if(num%i==0){
-                sum=sum+i;
-            }
-        }
-        if(sum==num){
-            return true;
+        int sum = 1;
+        if(num<=1){ 
+            return false;
         }
         else{
-            return false;
+        for(int i = 2;i<=Math.sqrt(num);i++){
+            if(num%i==0){
+                if(i*i==num){
+                    sum+=i;
+                }
+                else{
+                    sum=(sum+i)+(num/i);
+                }
+            }
+        }
+        return sum==num; 
         }
     }
 }
+
