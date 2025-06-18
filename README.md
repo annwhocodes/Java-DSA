@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/annwhocodes/Java-DSA/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/annwhocodes/Java-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/annwhocodes/Java-DSA/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/annwhocodes/Java-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/annwhocodes/Java-DSA/tree/master/0268-missing-number) |
 | [0492-construct-the-rectangle](https://github.com/annwhocodes/Java-DSA/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/annwhocodes/Java-DSA/tree/master/0507-perfect-number) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/annwhocodes/Java-DSA/tree/master/0067-add-binary) |
+| [0231-power-of-two](https://github.com/annwhocodes/Java-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/annwhocodes/Java-DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/annwhocodes/Java-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/annwhocodes/Java-DSA/tree/master/0067-add-binary) |
 | [1894-merge-strings-alternately](https://github.com/annwhocodes/Java-DSA/tree/master/1894-merge-strings-alternately) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/annwhocodes/Java-DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
