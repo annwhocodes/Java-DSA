@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/annwhocodes/Java-DSA/tree/master/0268-missing-number) |
 | [0492-construct-the-rectangle](https://github.com/annwhocodes/Java-DSA/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/annwhocodes/Java-DSA/tree/master/0507-perfect-number) |
+| [0897-prime-palindrome](https://github.com/annwhocodes/Java-DSA/tree/master/0897-prime-palindrome) |
 | [2238-a-number-after-a-double-reversal](https://github.com/annwhocodes/Java-DSA/tree/master/2238-a-number-after-a-double-reversal) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/annwhocodes/Java-DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Backtracking
@@ -105,4 +106,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/annwhocodes/Java-DSA/tree/master/0258-add-digits) |
+| [0897-prime-palindrome](https://github.com/annwhocodes/Java-DSA/tree/master/0897-prime-palindrome) |
 <!---LeetCode Topics End-->
