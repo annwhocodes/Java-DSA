@@ -6,13 +6,13 @@ class Solution {
             }
         }
 
-        for (int len = 1; len <= 5; len++) {
-            int start = (int) Math.pow(10, len - 1);
-            int end = (int) Math.pow(10, len);
-            for (int half = start; half < end; half++) {
-                String left = Integer.toString(half);
-                String right = new StringBuilder(left.substring(0, left.length() - 1)).reverse().toString();
-                int candidate = Integer.parseInt(left + right);
+        for (int len = 1; len < 6; len++) {
+            for (int root = (int) Math.pow(10, len - 1); root < (int) Math.pow(10, len); root++) {
+                String s = Integer.toString(root);
+                StringBuilder sb = new StringBuilder(s);
+                sb.deleteCharAt(sb.length() - 1); 
+                String palStr = s + sb.reverse().toString();
+                int candidate = Integer.parseInt(palStr);
                 if (candidate >= n && isPrime(candidate)) {
                     return candidate;
                 }
