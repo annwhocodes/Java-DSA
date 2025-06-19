@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/annwhocodes/Java-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/annwhocodes/Java-DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/annwhocodes/Java-DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/annwhocodes/Java-DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/annwhocodes/Java-DSA/tree/master/0268-missing-number) |
 | [0492-construct-the-rectangle](https://github.com/annwhocodes/Java-DSA/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/annwhocodes/Java-DSA/tree/master/0507-perfect-number) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/annwhocodes/Java-DSA/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/annwhocodes/Java-DSA/tree/master/0258-add-digits) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/annwhocodes/Java-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/annwhocodes/Java-DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Enumeration
@@ -99,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/annwhocodes/Java-DSA/tree/master/0231-power-of-two) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/annwhocodes/Java-DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
