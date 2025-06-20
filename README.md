@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/annwhocodes/Java-DSA/tree/master/0507-perfect-number) |
 | [0897-prime-palindrome](https://github.com/annwhocodes/Java-DSA/tree/master/0897-prime-palindrome) |
 | [2083-three-divisors](https://github.com/annwhocodes/Java-DSA/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/annwhocodes/Java-DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/annwhocodes/Java-DSA/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/annwhocodes/Java-DSA/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/annwhocodes/Java-DSA/tree/master/2507-number-of-common-factors) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/annwhocodes/Java-DSA/tree/master/0287-find-the-duplicate-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/annwhocodes/Java-DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1656-count-good-triplets](https://github.com/annwhocodes/Java-DSA/tree/master/1656-count-good-triplets) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/annwhocodes/Java-DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/annwhocodes/Java-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/annwhocodes/Java-DSA/tree/master/2551-apply-operations-to-an-array) |
 ## Two Pointers
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/annwhocodes/Java-DSA/tree/master/0258-add-digits) |
 | [0897-prime-palindrome](https://github.com/annwhocodes/Java-DSA/tree/master/0897-prime-palindrome) |
 | [2083-three-divisors](https://github.com/annwhocodes/Java-DSA/tree/master/2083-three-divisors) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/annwhocodes/Java-DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/annwhocodes/Java-DSA/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/annwhocodes/Java-DSA/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
