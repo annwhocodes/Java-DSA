@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2083-three-divisors](https://github.com/annwhocodes/Java-DSA/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/annwhocodes/Java-DSA/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/annwhocodes/Java-DSA/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/annwhocodes/Java-DSA/tree/master/2507-number-of-common-factors) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/annwhocodes/Java-DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Backtracking
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1656-count-good-triplets](https://github.com/annwhocodes/Java-DSA/tree/master/1656-count-good-triplets) |
 | [2083-three-divisors](https://github.com/annwhocodes/Java-DSA/tree/master/2083-three-divisors) |
+| [2507-number-of-common-factors](https://github.com/annwhocodes/Java-DSA/tree/master/2507-number-of-common-factors) |
 ## Hash Table
 |  |
 | ------- |
@@ -112,4 +114,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-prime-palindrome](https://github.com/annwhocodes/Java-DSA/tree/master/0897-prime-palindrome) |
 | [2083-three-divisors](https://github.com/annwhocodes/Java-DSA/tree/master/2083-three-divisors) |
 | [2491-smallest-even-multiple](https://github.com/annwhocodes/Java-DSA/tree/master/2491-smallest-even-multiple) |
+| [2507-number-of-common-factors](https://github.com/annwhocodes/Java-DSA/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
