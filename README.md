@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2238-a-number-after-a-double-reversal](https://github.com/annwhocodes/Java-DSA/tree/master/2238-a-number-after-a-double-reversal) |
 | [2491-smallest-even-multiple](https://github.com/annwhocodes/Java-DSA/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/annwhocodes/Java-DSA/tree/master/2507-number-of-common-factors) |
+| [2722-prime-in-diagonal](https://github.com/annwhocodes/Java-DSA/tree/master/2722-prime-in-diagonal) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/annwhocodes/Java-DSA/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Backtracking
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/annwhocodes/Java-DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/annwhocodes/Java-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/annwhocodes/Java-DSA/tree/master/2551-apply-operations-to-an-array) |
+| [2722-prime-in-diagonal](https://github.com/annwhocodes/Java-DSA/tree/master/2722-prime-in-diagonal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,4 +120,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/annwhocodes/Java-DSA/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/annwhocodes/Java-DSA/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/annwhocodes/Java-DSA/tree/master/2507-number-of-common-factors) |
+| [2722-prime-in-diagonal](https://github.com/annwhocodes/Java-DSA/tree/master/2722-prime-in-diagonal) |
+## Matrix
+|  |
+| ------- |
+| [2722-prime-in-diagonal](https://github.com/annwhocodes/Java-DSA/tree/master/2722-prime-in-diagonal) |
 <!---LeetCode Topics End-->
