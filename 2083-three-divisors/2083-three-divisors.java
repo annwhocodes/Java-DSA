@@ -1,15 +1,11 @@
 class Solution {
     public boolean isThree(int n) {
-        boolean isThree = false;
-        ArrayList<Integer> factors = new ArrayList<Integer>();
-        for(int i=2; i<=n;i++){
-            if(n%i==0){
-                factors.add(i);
+        int count=0;
+        for(int m=1;m<=n;m++){
+            if(n%m==0){
+                count++;
             }
         }
-        if(factors.size()==2){
-            isThree = true;
-        }
-    return isThree;
+        return count==3?true:false;
     }
 }
