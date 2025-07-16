@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/annwhocodes/Java-DSA/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/annwhocodes/Java-DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/annwhocodes/Java-DSA/tree/master/0287-find-the-duplicate-number) |
+| [0908-middle-of-the-linked-list](https://github.com/annwhocodes/Java-DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/annwhocodes/Java-DSA/tree/master/1894-merge-strings-alternately) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/annwhocodes/Java-DSA/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/annwhocodes/Java-DSA/tree/master/2551-apply-operations-to-an-array) |
@@ -136,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/annwhocodes/Java-DSA/tree/master/0053-maximum-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0908-middle-of-the-linked-list](https://github.com/annwhocodes/Java-DSA/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
